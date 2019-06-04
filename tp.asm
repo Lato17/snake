@@ -2,7 +2,7 @@
 .model	small
 .stack	2048
 
-DADOS	SEGMENT PARA 'DATA'
+DADOSFORPUSSYS	SEGMENT PARA 'DATA'
 		POSy			db		10	; a linha pode ir de [1 .. 25]
 		POSx			db		40	; POSx pode ir [1..80]	
 	; :::::::::::::::::: Files in Memory ::::::::::::::::::
